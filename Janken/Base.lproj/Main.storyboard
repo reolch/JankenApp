@@ -115,6 +115,7 @@
                     <connections>
                         <outlet property="imageView" destination="Om0-gR-6be" id="biR-6o-doe"/>
                         <outlet property="label" destination="E77-x5-LBj" id="g5Y-vA-9Mh"/>
+                        <outlet property="stackButtos" destination="FZl-on-Sih" id="I7B-FE-YWj"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
